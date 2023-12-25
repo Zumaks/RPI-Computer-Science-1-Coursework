@@ -1,1 +1,1 @@
-# RPI-Computer-Science-1-Coursework
+This repository contains all the homework assignments which I completed during the first semester of my freshman year at Rensselaer Polytechnic Institute for Computer Science I. The class featured 8 different homeworks all of which were completed in python. 
